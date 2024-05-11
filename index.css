@@ -1,0 +1,33 @@
+.calculator {
+    width: 250px;
+    margin: 100px auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(52, 68, 188);
+    border-radius:13px;
+}
+input{
+    background-color: rgb(202, 202, 230);
+    color:black;
+    font-size:larger;
+    border-radius:6px;
+    text-align:center;
+}
+
+.buttons button {
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+    color:rgb(230, 230, 238);
+    background-color: rgb(6, 6, 121);
+    border-color: black;
+    border-radius: 8px;
+    font-size: larger;
+}
+
+
+#display {
+    width: 100%;
+    margin-bottom: 10px;
+}
